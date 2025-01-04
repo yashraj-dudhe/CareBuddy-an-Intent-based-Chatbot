@@ -51,8 +51,12 @@ CareBuddy is a mental health chatbot designed to provide accessible support, gui
    - Conversation history logged for analysis and improvement.
 
 ---
+### Screenshots
+![Carebuddy](/img.png)
 
-
+### 🤖Try now:
+- **CareBuddy**: [Link](https://carebuddy.streamlit.app/)
+  
 ### Prerequisites
 - Python 3.8 or above
 - Required Python libraries: `nltk`, `streamlit`, `scikit-learn`, `sentence-transformers`
